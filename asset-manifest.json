@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tiledesign/static/css/main.69c28106.css",
+    "main.js": "/tiledesign/static/js/main.f90d0a96.js",
+    "static/js/787.e2ba8fa5.chunk.js": "/tiledesign/static/js/787.e2ba8fa5.chunk.js",
+    "static/media/about1.jpg": "/tiledesign/static/media/about1.a90b94786071e9e68880.jpg",
+    "static/media/desk.webp": "/tiledesign/static/media/desk.8b3d0d5aae52a3b4afd9.webp",
+    "static/media/deskblog.jpg": "/tiledesign/static/media/deskblog.bfeb199daba4dad5c673.jpg",
+    "static/media/sketch.jpg": "/tiledesign/static/media/sketch.2bf31505747a225d3a58.jpg",
+    "static/media/camera.jpg": "/tiledesign/static/media/camera.5f5205680dd8b074c5a7.jpg",
+    "static/media/ideas.jpg": "/tiledesign/static/media/ideas.7c967249a99c8d94ef8d.jpg",
+    "static/media/coffee.jpg": "/tiledesign/static/media/coffee.949a8397b72798cc8857.jpg",
+    "static/media/desk.jpg": "/tiledesign/static/media/desk.c5ac1a6de80819e0d0b5.jpg",
+    "static/media/article1.jpg": "/tiledesign/static/media/article1.a7fc0405d5c05a096527.jpg",
+    "static/media/skateboard.jpg": "/tiledesign/static/media/skateboard.1ebaf4015a82accb6151.jpg",
+    "static/media/about.jpg": "/tiledesign/static/media/about.69d8b9a51b3f69eaf9b2.jpg",
+    "static/media/article2.jpg": "/tiledesign/static/media/article2.f3310d446dc785412549.jpg",
+    "static/media/photo.jpg": "/tiledesign/static/media/photo.016b356403b55341c8db.jpg",
+    "index.html": "/tiledesign/index.html",
+    "main.69c28106.css.map": "/tiledesign/static/css/main.69c28106.css.map",
+    "main.f90d0a96.js.map": "/tiledesign/static/js/main.f90d0a96.js.map",
+    "787.e2ba8fa5.chunk.js.map": "/tiledesign/static/js/787.e2ba8fa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c28106.css",
+    "static/js/main.f90d0a96.js"
+  ]
+}
